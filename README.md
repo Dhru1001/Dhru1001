@@ -87,7 +87,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=SubModLib_Vad&theme=tokyonight)](https://github.com/Dhru1001/SubModLib_Vad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=Image_Classifier_To_Identify_Dog_Breeds&theme=tokyonight)](https://github.com/Dhru1001/Image_Classifier_To_Identify_Dog_Breeds)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=road-lane-line-detection&theme=tokyonight)](https://github.com/Dhru1001/road-lane-line-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=Virtual-Assistant&theme=tokyonight)](https://github.com/Dhru1001/Virtual-Assistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=Hand_Tracking&theme=tokyonight)](https://github.com/Dhru1001/Hand_Tracking)
 
