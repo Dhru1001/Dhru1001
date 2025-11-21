@@ -85,6 +85,7 @@
 
 <div align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=SubModLib_Vad&theme=tokyonight)](https://github.com/Dhru1001/SubModLib_Vad)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=Image_Classifier_To_Identify_Dog_Breeds&theme=tokyonight)](https://github.com/Dhru1001/Image_Classifier_To_Identify_Dog_Breeds)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=road-lane-line-detection&theme=tokyonight)](https://github.com/Dhru1001/road-lane-line-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhru1001&repo=Virtual-Assistant&theme=tokyonight)](https://github.com/Dhru1001/Virtual-Assistant)
@@ -96,6 +97,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🎬 **SubModLib VAD** | Video frame selection using CLIP embeddings & submodular optimization (Facility Location, Graph Cut, Disparity Min/Sum) | Python, PyTorch, CLIP |
 | 🎵 **Trapped Music WebApp** | Interactive music platform with Spotify API, JWT auth & OTP verification | Java, REST APIs |
 | 🐕 **Dog Breed Classifier** | CNN-based classifier achieving 93.3% accuracy using VGG, AlexNet, ResNet | Python, TensorFlow |
 | 🤖 **Liam - Virtual Assistant** | Voice-based VA with advanced NLP & context-aware interactions | Python, NLP |
