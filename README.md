@@ -110,7 +110,7 @@
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Dhru1001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhru1001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhru1001&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhru1001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -123,15 +123,15 @@
 <div align="center">
 
 ### 📜 Certifications
-![Azure](https://img.shields.io/badge/Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Coursera](https://img.shields.io/badge/Python_Data_Structures-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Udemy](https://img.shields.io/badge/JavaScript_Complete-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+[![Azure](https://img.shields.io/badge/Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/DhrumilShah-1925/F68DDF78F1AF8644?sharingId=72F26B0D01DA4F29)
+[![Coursera](https://img.shields.io/badge/Python_Data_Structures-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/CY8DKT86T5SN)
+[![Udemy](https://img.shields.io/badge/JavaScript_Complete-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-7c0beaab-638b-4e09-99e5-9ee397b40db8/)
 
 ### 🏆 Awards
-🚗 **AWS AI & ML Scholarship** - Udacity (Autonomous Vehicle Development)  
-☁️ **Microsoft Azure AI Fundamentals** - Challenge Winner  
-🚀 **NASA Space Apps Challenge** - Certified Participant  
-💻 **Code4GovTech** - SDK Development Proposal
+[![AWS](https://img.shields.io/badge/AWS_AI_&_ML_Scholarship-FF9900?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com/)
+[![Microsoft](https://img.shields.io/badge/Azure_AI_Fundamentals_Challenge-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/DhrumilShah-1925/F2VTDYSX?sharingId=72F26B0D01DA4F29)
+[![NASA](https://img.shields.io/badge/NASA_Space_Apps_Challenge-E03C31?style=for-the-badge&logo=nasa&logoColor=white)](https://github.com/Dhru1001/Dhru1001/blob/main/certificates/Nasa_Space_App_Hackathon.pdf)
+[![Code4GovTech](https://img.shields.io/badge/Code4GovTech_SDK_Proposal-00A86B?style=for-the-badge&logo=gov&logoColor=white)](https://github.com/Dhru1001/Dhru1001/blob/main/certificates/U66LMK49_Dhrumil%20Shah.pdf)
 
 </div>
 
